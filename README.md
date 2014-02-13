@@ -5,6 +5,4 @@ DATA container for docker
 
 ## Usage
 
-```bash
-docker run -name DATA quickbrew/data
-```
+    docker run -name DATA quickbrew/data
